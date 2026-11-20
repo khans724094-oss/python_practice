@@ -1,0 +1,25 @@
+# assignment operator - sab ka
+
+a = 10
+a += 5  # 10 + 5
+print(a)  # 15
+
+a = 10
+a -= 3  # 10 - 3
+print(a)  # 7
+
+a = 10
+a *= 2  # 10 * 2
+print(a)  # 20
+
+a = 10
+a /= 2  # 10 / 2
+print(a)  # 5.0
+
+a = 10
+a %= 3  # 10 % 3
+print(a)  # 1
+
+a = 10
+a **= 2  # 10 ** 2
+print(a)  # 100
